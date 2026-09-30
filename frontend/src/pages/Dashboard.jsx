@@ -9,8 +9,8 @@ import {
   IndianRupee,
 } from "lucide-react";
 
-import Navbar from "../components/Navbar";
-import ExpenseChart from "../components/ExpenseChart";
+import Navbar from "../Components/Navbar";
+import ExpenseChart from "../Components/ExpenseChart";
 
 function Dashboard() {
   const [expenses, setExpenses] = useState([]);
