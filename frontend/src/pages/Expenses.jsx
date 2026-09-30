@@ -7,8 +7,8 @@ import {
   Pencil,
 } from "lucide-react";
 
-import Navbar from "../../src/Components/Navbar"
-import ExpenseForm from "../../src/Components/ExpenseForm";
+import Navbar from "../Components/Navbar";
+import ExpenseForm from "../Components/ExpenseForm";
 import API from "../api";
 
 function Expenses() {
